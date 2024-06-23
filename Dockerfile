@@ -1,4 +1,4 @@
-FROM ghcr.io/fundacion-instituto-profesional-duoc-uc/github-container-registry:v1.1.0
+FROM node:14-alpine3.16
 
 COPY . .
 
